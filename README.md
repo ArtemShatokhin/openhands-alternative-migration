@@ -37,7 +37,12 @@ OpenHands is a self-hosted developer control center for coding agents and automa
 - OpenHands: https://github.com/OpenHands/OpenHands and https://www.openhands.dev/pricing
 - The full comparison: https://openhands-alternative.com/openhands-vs-kortix
 - Self-hosting an agent platform you own: https://openhands-alternative.com/self-hosting
-- What each option costs per month: https://openhands-alternative.com/openhands-cost
+- What each option costs per month: https://openhands-alternative.com/openhands-pricing
 - Is OpenHands open source, and what that means for a company: https://openhands-alternative.com/is-openhands-open-source
 - Kortix vs OpenHands, in full: https://kortix.com/blog/kortix-vs-openhands
 - Migration notes that are not in this file live in the issues tab; open one if your stack does not fit the five steps.
+
+## More of the decision
+
+- [Which open source coding agent fits best](https://openhands-alternative.com/best-open-source-coding-agent) is the five-option comparison to read before a move.
+- [OpenHands vs Aider](https://openhands-alternative.com/openhands-vs-aider) is the head-to-head for a team choosing between the two harnesses.
