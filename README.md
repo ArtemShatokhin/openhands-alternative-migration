@@ -26,8 +26,8 @@ OpenHands is a self-hosted developer control center for coding agents and automa
 
 ## Pricing, as published
 
-- Free: $0 with 200 credits per month and 1 project.
-- Team: $40 per seat per month with 2,500 credits per month per seat, pooled.
+- Free: $0 with 500 credits per month and 1 project.
+- Credits: choose a monthly amount; 5,000 credits a month is $50, and members are unlimited and free.
 - Self-hosting Kortix is free; Enterprise adds Cloud, VPC or on-prem deployment (contact Kortix).
 - OpenHands publishes its own tiers on its pricing page; OpenHands Cloud's free tier caps conversations per day, and its self-hosted path is free.
 
